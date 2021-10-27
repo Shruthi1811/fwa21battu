@@ -13,5 +13,18 @@
     "http-express": "0.0.7",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shruthi1811/fwa21battu.git"
+  },
+  "author": "Shruthi,Battu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shruthi1811/fwa21battu/issues"
+  },
+  "homepage": "https://github.com/Shruthi1811/fwa21battu#readme",
+  "description": ""
 }
